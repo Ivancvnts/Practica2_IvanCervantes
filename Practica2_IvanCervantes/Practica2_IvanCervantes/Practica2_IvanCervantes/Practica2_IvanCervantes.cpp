@@ -8,6 +8,7 @@ int main()
     std::cout << "Commit 1\n";
     std::cout << "Commit 2\n";
     std::cout << "Conflicto 1\n";
-    std::cout << "Commit 3\n";
+    std::cout << "Commit 33\n";
+    std::cout << "Commit 4\n";
 
 }
