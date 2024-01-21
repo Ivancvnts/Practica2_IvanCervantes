@@ -11,5 +11,6 @@ int main()
     std::cout << "Commit 33\n";
     std::cout << "Commit 4\n";
     std::cout << "Cambios en Branch 1\n";
+    std::cout << "Conflicto 2\n";
 
 }
