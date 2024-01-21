@@ -7,5 +7,6 @@ int main()
     std::cout << "Hello World!\n";
     std::cout << "Commit 1\n";
     std::cout << "Commit 2\n";
-    std::cout << "Conflicto 2\n";
+    std::cout << "Conflicto 1\n";
+
 }
